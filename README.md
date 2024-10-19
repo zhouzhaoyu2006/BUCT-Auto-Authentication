@@ -5,11 +5,11 @@
 # 食用
 ## 配置selenium环境
 ### Windows
-1.Python和pip安装，加入环境变量
-2.用pip安装selenium库
-3.下载相应浏览器版本的webdriver并存入环境变量
-4.run code
+1. Python和pip安装，加入环境变量
+2. 用pip安装selenium库
+3. 下载相应浏览器版本的webdriver并存入环境变量
+4. run code
 ### Rasbian
-1.安装selenium库
+1. 安装selenium库
 `sudo apt-get install python3-selenium`
 他会**自行**安装**所有**需要的库、Webdriver、chronium等等。
